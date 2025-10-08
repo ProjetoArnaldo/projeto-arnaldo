@@ -58,21 +58,9 @@ Nesta análise, foram consideradas as principais funcionalidades envolvidas no p
 
 ---
 
-## 🧩 Tecnologias Envolvidas
-
-•⁠  ⁠*Frontend:* HTML, CSS, JavaScript  
-•⁠  ⁠*Backend:* Servidores Google (Gmail API, SMTP/IMAP)  
-•⁠  ⁠*Banco de Dados:* Cloud Storage  
-•⁠  ⁠*Autenticação:* OAuth 2.0  
-•⁠  ⁠*Integração:* Google Drive  
-
----
-
-## 👩‍💻 Projeto Arnaldo:
+## 👩‍💻 Projeto:
 
 *Participantes: Ana Laura Amoroso, Ana Carolina, Syvia Helena e Larissa.
 *Disciplina:* Engenharia de Software I  
 
----
 
-	⁠“Enviar um e-mail é mais do que clicar em um botão — é transformar uma mensagem em conexão.”
