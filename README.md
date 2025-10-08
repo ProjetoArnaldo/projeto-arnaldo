@@ -60,7 +60,7 @@ Nesta análise, foram consideradas as principais funcionalidades envolvidas no p
 
 ## 👩‍💻 Projeto:
 
-*Participantes: Ana Laura Amoroso, Ana Carolina, Syvia Helena e Larissa.
+*Participantes: Ana Laura Amoroso, Ana Carolina, Silvia Helena e Larissa.
 *Disciplina:* Engenharia de Software I  
 
 
