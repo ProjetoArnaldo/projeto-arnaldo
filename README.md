@@ -76,7 +76,6 @@ Um sistema funcional baseado nas três principais funcionalidades analisadas do 
 - Enviar e-mail  
 - Anexar arquivos  
 
-O sistema seguirá fielmente o que foi apresentado no trabalho anterior.
 
 ---
 
@@ -183,18 +182,9 @@ Para manter a equipe motivada:
 
 ---
 
-# 💻 8. Como rodar o projeto (quando o código estiver implementado)
-
-```bash
-git clone https://github.com/ProjetoArnaldo/projeto-arnaldo
-cd projeto-arnaldo
-npm install
-npm start
-(Ajustar conforme a tecnologia usada.)
-
-📬 9. Contato
+# 📬 9. Contato
 Qualquer dúvida sobre o projeto:
-📧 Email (colocar)
+📧 Email (duvidas@gmail.com)
 📅 Disciplina: Engenharia de Software I
 
 
