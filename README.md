@@ -182,7 +182,7 @@ Para manter a equipe motivada:
 
 ---
 
-# 📬 9. Contato
+# 📬 8. Contato
 Qualquer dúvida sobre o projeto:
 📧 Email (duvidas@gmail.com)
 📅 Disciplina: Engenharia de Software I
