@@ -1,4 +1,4 @@
-# 📧 Gmail – Análise das Funcionalidades do Aplicativo  
+# 📧 Email – Funcionalidades do Aplicativo  
 ### Engenharia de Software I  
 ### Participantes: Ana Laura Amoroso, Ana Carolina, Silvia Helena e Larissa  
 
@@ -132,11 +132,11 @@ Para um desenvolvimento real, seriam necessários os seguintes papéis:
 
 ## **💰 HOW MUCH – Quanto de investimento é necessário?**  
 
-**Investimento solicitado: R$ 380.000**
+**Investimento solicitado: R$ 234.000**
 
 | Categoria | Valor |
 |----------|--------|
-| Mão de obra (6 meses) | R$ 336.000 |
+| Mão de obra (6 meses) | R$ 190.000 |
 | Infraestrutura e cloud | R$ 18.000 |
 | Licenças e ferramentas | R$ 6.000 |
 | Divulgação e lançamento | R$ 20.000 |
