@@ -99,12 +99,7 @@ O projeto terá duração total de **6 meses**, conforme o cronograma abaixo.
 
 ---
 
-## **📌 WHO – Quem vai desenvolver?**  
-Equipe atual do projeto:  
-- Ana Laura Amoroso  
-- Ana Carolina  
-- Silvia Helena  
-- Larissa  
+## **📌 WHO – Quem vai desenvolver?**   
 
 Para um desenvolvimento real, seriam necessários os seguintes papéis:
 
