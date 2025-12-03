@@ -1,6 +1,6 @@
 # 📧 Email – Funcionalidades do Aplicativo  
 ### Engenharia de Software I  
-### Participantes: Ana Laura Amoroso, Ana Carolina, Silvia Helena e Larissa  
+### Participantes: Ana Laura Amoroso, Ana Carolina, Sylvia Helena e Larissa  
 
 Este repositório contém o estudo e planejamento do sistema baseado no **Gmail**, com foco nas funcionalidades de envio, composição e anexos de e-mail.  
 O objetivo é analisar o funcionamento dessas funcionalidades e apresentar um **planejamento completo**, conforme solicitado pelos investidores (Anjos do Brasil) e pelo professor.
